@@ -32,11 +32,3 @@ You can extend the chatbot by adding more keywords and responses in the `get_res
 ## Requirements
 
 - Python 3.x
-
-## License
-
-This project is open source and free to use.
-
-## Author
-
-Created and improved by BLACKBOXAI assistant.
